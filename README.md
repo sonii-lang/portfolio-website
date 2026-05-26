@@ -1,7 +1,7 @@
 # portfolio-website
 my coding journey, projects and practice for placement
 HI,I'M SONIYA 
-## BCA STUDENT| FUTURE DEVELOPER |DEVELOPER 
+## BCA STUDENT| FUTURE DEVELOPER |GROWING... 
 ### SKILLS I'M LEARNING 
 
 *DSA (BASIC TO ADVANCED).
