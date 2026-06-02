@@ -17,7 +17,7 @@ HI,I'M SONIYA
   -IMPROVE CODING SKILLS.
 
   ### CONNECT WITH ME
-  LEARNING AND GROWING EVERY DAY
+  Transforming curiosity into creativity through technology.
 
   author- soniya gautam
 
