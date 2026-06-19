@@ -1,7 +1,7 @@
 # portfolio-website
 my coding journey, projects and practice for placement
 HI,I'M SONIYA 
-##  BCA Student | Aspiring Software Developer | Turning Ideas into Code
+##  BCA Student | Aspiring Software Developer + Ai Integartion Turning Ideas into Code
 ### SKILLS I'M LEARNING 
 
 *DSA (BASIC TO ADVANCED).
