@@ -13,7 +13,7 @@ HI,I'M SONIYA
 * ONE SELF-MADED GOOGLE WEBSITE (ABOUT HUMAN NATURE).
 
   ### GOALS
-  -Certificatins mothe then 8+.
+  -Certificatins ability.
   -BUILD STRONG PROJECTS.
   -CRACK PALCEMENTS.
   -IMPROVE CODING SKILLS.
