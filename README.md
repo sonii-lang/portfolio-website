@@ -17,6 +17,7 @@ HI,I'M SONIYA
   -BUILD STRONG PROJECTS.
   -CRACK PALCEMENTS.
   -IMPROVE CODING SKILLS.
+  -intercultural communication.
 
   ### CONNECT WITH ME
   Transforming curiosity into creativity through technology.
