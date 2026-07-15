@@ -5,8 +5,7 @@ HI,I'M SONIYA
 ### SKILLS I'M LEARNING 
 
 *DSA (BASIC TO ADVANCED).
-*FULL-STACK DEVELOPENMENT.
-* Working on JAVA .
+* Working on JAVA (full-stack) .
 * Learning Ai integration .
 * Python as Enthusiast.
 * GIT & GITHUB
