@@ -1,7 +1,7 @@
 # portfolio-website
 my coding journey, projects and practice for placement
 HI,I'M SONIYA 
-## Aspiring Software Developer + Ai Integartion |Working on JAVA| fulll stack Enthusiast| Turning Ideas into Code
+## JAVA DEVELOPER | genAI EXPLORER |DSA && SPRING BOOT LEARNER
 ### SKILLS I'M LEARNING 
 
 *DSA (BASIC TO ADVANCED).
